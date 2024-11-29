@@ -34,9 +34,8 @@ Pulse는 **공감**과 **소통**에 초점을 맞춘 소셜 네트워크 플랫
   - JPA (Hibernate)
   - MySQL / PostgreSQL / MongoDB / Redis / Kafka / Grpc
 - **프론트엔드**
-  - React 18+
-  - Tailwind CSS
-  - Axios
+  - IOS
+  - ANDROID
 - **인프라**
   - Docker
   - AWS (EC2, S3, RDS)
