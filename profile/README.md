@@ -1,12 +1,52 @@
-## Hi there 👋
+# Pulse 🫀
+**Pulse**는 사람들과의 소통과 실시간으로 감정을 나눌 수 있는 소셜 네트워크 서비스입니다. 사용자는 자신의 감정을 표현하고 다른 사람들과 공감할 수 있는 직관적이고 아름다운 플랫폼을 제공합니다.
 
-<!--
+---
 
-**Here are some ideas to get you started:**
+## 📖 목차
+1. [프로젝트 소개](#프로젝트-소개)
+2. [주요 기능](#주요-기능)
+3. [기술 스택](#기술-스택)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 프로젝트 소개
+Pulse는 **공감**과 **소통**에 초점을 맞춘 소셜 네트워크 플랫폼입니다. 간단한 인터페이스와 사용자 친화적인 기능으로 누구나 쉽게 이용할 수 있습니다.
+
+- **목표**: 더 나은 소통과 관계를 형성할 수 있는 공간을 제공
+- **대상 사용자**: 일상 속에서 자신의 감정을 공유하고 싶은 모든 사람
+
+---
+
+## 주요 기능
+- **감정 카드 공유**: 감정을 표현하는 시각적 피드 생성 및 공유
+- **실시간 피드**: 팔로우한 사람들의 감정과 상태를 실시간으로 확인
+- **댓글 및 반응**: 다른 사용자의 게시물에 댓글과 이모티콘으로 공감 표현
+- **알림 시스템**: 팔로워, 좋아요, 댓글에 대한 알림 제공
+- **다국어 지원**: 글로벌 사용자 지원을 위한 다국어 인터페이스
+
+---
+
+## 기술 스택
+- **백엔드**
+  - Java 21
+  - Spring Boot 3.1+
+  - JPA (Hibernate)
+  - MySQL / PostgreSQL / MongoDB / Redis / Kafka / Grpc
+- **프론트엔드**
+  - React 18+
+  - Tailwind CSS
+  - Axios
+- **인프라**
+  - Docker
+  - AWS (EC2, S3, RDS)
+  - GitHub Actions (CI/CD)
+- **기타**
+  - JWT 기반 인증/인가
+  - MSA 프로젝트
+  - 도메인 주도 설계 (DDD)
+  - 헥사고날 아키텍처
+
+---
+
+Made with ❤️ by the Amazing Effect Team
